@@ -1,6 +1,6 @@
 {
     "commerceSuiteVersion": "2211",
-    "keepPriorPatchCount": 1,
+    "keepPriorPatchCount": 2,
     "enableImageProcessingService": true,
     "extensions": [
         "cloudmediaconversion",
