@@ -2,6 +2,7 @@
     "commerceSuiteVersion": "2211",
     "enableImageProcessingService": true,
     "extensions": [
+        "resetadminpassword",
         "cloudmediaconversion",
         "mediaconversionbackoffice"
     ],
