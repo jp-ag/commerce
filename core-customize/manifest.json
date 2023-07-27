@@ -338,12 +338,12 @@
                     "contextPath": "/medias"
                 },
                 {
-                    "name": "concerttours",
-                    "contextPath": "/sassamutema"
-                }
-                {
                     "name": "acceleratorservices",
                     "contextPath": "/acceleratorservices"
+                },
+                {
+                    "name": "concerttours",
+                    "contextPath": "/sassamutema"
                 },
                 {
                     "name": "b2bpunchout",
