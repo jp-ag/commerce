@@ -338,6 +338,10 @@
                     "contextPath": "/medias"
                 },
                 {
+                    "name": "concerttours",
+                    "contextPath": "/sassamutema"
+                }
+                {
                     "name": "acceleratorservices",
                     "contextPath": "/acceleratorservices"
                 },
@@ -565,8 +569,7 @@
     "tests": {
         "extensions": [
             "kiwi",
-            "tiger",
-            "concerttours"
+            "tiger"
         ],
         "annotations": [
             "UnitTests",
